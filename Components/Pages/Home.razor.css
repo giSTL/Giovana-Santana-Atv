@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(224, 27, 148);
+    font-family: cursive;
+
+  }
+
+  section {
+    color: rgb(228, 0, 122);
+  }
+
+  .cachorro {
+    width: 400px;
+    height: 400px;
+  }
+
+  .sobreMim {
+    text-align: center;
+  }
+
+  .div {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .p{
+    margin-left: 20px;
+  }
+    .pagina{
+    margin: 10px 100px;
+    border:  solid 1px grey;
+    padding: 30px;
+    height: 800px;
+    background-color: white;
+  }
+
+  .fundo{
+  }

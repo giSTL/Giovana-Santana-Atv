@@ -1,0 +1,21 @@
+  h1 {
+    color: rgb(224, 27, 148);
+    font-family: cursive;
+    text-align: center;
+  }
+
+  section {
+    color: rgb(228, 0, 122);
+  }
+
+  .div {
+    justify-content: space-between;
+    display: flex;
+  }
+
+  .pagina{
+    margin: 10px 100px;
+    border:  solid 1px grey;
+    padding: 30px;
+    height: 800px;
+  }
